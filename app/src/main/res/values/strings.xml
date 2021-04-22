@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="dummy_text">You won</string>
+    <string name="therredots">....</string>
+</resources>
